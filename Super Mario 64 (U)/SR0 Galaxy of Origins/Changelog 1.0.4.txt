@@ -1,0 +1,65 @@
+Changes of v1.0.4:
+---------------
+
+General:
+- idk some other stuff like invi walls or whatever,
+   Tomatobird8 did the fixes, so if anything is still wrong
+   go ahead and blame him.
+
+Changes of v1.0.3:
+---------------
+
+General:
+- Higher walljump angles are now possible again
+- Moved the starting point in the ending more to the left
+
++ This update is brought to you by Tomatobird8, who wanted me to use Frame's Collision Patch on this hack, which unknowingly reverted the walljumps angles back to og sm64.
+
+Changes of v1.0.2:
+---------------
+
+General:
+- Changed the color of the coins
+- added Frame's Collision Patch
+- Panels should be fixed now (aglab2)
+
+The volume of the following songs has been adjusted:
+- Course 1: 2D Area
+- Course 4: Main Area
+- Course 8: Main Area
+
+Course 14:
+- The non quicksand tiles in the disco (star 2) are now a bit brighter, coins have been added to tile 2 to 4 to show a bit more how the path works
+- Changed the background texture of star 7, black tiles in the background should be easier to spot now
+
+
+Changes of v1.0.1:
+---------------
+
+General:
+- You can now exit course while moving
+- The recovery heart now has a blue outline to make it easier to see in course 8
+- Fixed the typos in course 15's star 5 and 6 name
+- Changed the possible walljump angles a bit
+
+Course 3:
+- Fixed some visual bugs
+
+Course 4:
+- Adjusted the collision around the blue blocks at the dam to prevent some of the invisable walls
+- Extended the size of the water box around the dam
+
+Course 5:
+- Increased the size of the warp holes in area 2
+
+Course 9:
+- Added two 10 coin !-boxes
+- Changed the 1 coin !-box to 10 coins
+
+Course 11:
+- Removed 2 Heave-Hos to prevent a crash
+
+Course 14:
+- Adjusted the disco room's visuals a bit
+- Adjusted the visuals of star 7's area a bit
+- You can now zoom out in the 2D area

@@ -1,0 +1,204 @@
+Super Mario 74
+Medal Challenges
+
+You've done almost everything in the game and still didn't get enough?
+Here are some tasks, similar to the Achievements of the XBox 360.
+
+But I can't implement them in the game itself so you kinda have to be honest to
+yourself whether you've beaten them or not.
+
+
+
+
+
+
+Main Tasks:
+
+#1 First Steps -- 5 Points
+Start the game.
+
+#2 Important Information -- 5 Points
+Talk to all 5 Info-Toads.
+
+#3 Switcheroo -- 10 Points
+Activate all three big switches.
+
+#4 First Achievement -- 5 Points
+Collect 10 stars.
+
+#5 Ready for round 2 -- 15 Points
+Collect 50 stars.
+
+#6 The final fight -- 30 Points
+Collect 110 stars.
+
+#7 Big shiny collection -- 50 Points
+Collect 150 stars.
+
+#8 DONE! -- 30 Points
+Beat Bowser the third time and win the game.
+
+#9 Useless entertainment -- 0 Points
+Get through a wall via BLJ.
+
+#10 Hidden Legends -- 50 Points
+Find all 5 mysterious hidden objects.
+
+-> 200 Points
+
+------------
+
+For greedy coin collectors:
+
+#11 Greedy! -- 10 Points
+Collect all 121 coins at the Dice-Fortress.
+
+#12 Risky Collection -- 15 Points
+Collect all 122 coins at the Skyward-Slopes.
+
+#13 Sunken Treasure -- 10 Points
+Collect all 131 coins in the Azure-Abyss.
+
+#14 City Cash -- 15 Points
+Collect all 147 coins in System of a Town.
+
+#15 Phantom-Treasure -- 20 Points
+Collect all 251 coins in the Haunted Factory.
+
+#16 Cave o' Cash -- 15 Points
+Collect all 135 coins in the Stalagmite-Cave.
+
+#17 Difficult procedure -- 20 Points
+Collect all 167 coins around the Icecrystal-Tower.
+
+#18 Gold in the desert -- 10 Points
+Colelct all 144 coins in the Overheating Oasis.
+
+#19 Flowery coinrain -- 10 Points
+Collect all 110 coins in the Flowery Gardens.
+
+#20 Swampy treaure -- 10 Points
+Collect all 133 coins in the Swampy Spring.
+
+#21 Round number -- 10 Points
+Collect all 100 coins at the Sunny Beach.
+
+#22 Cliff-coins -- 15 Points
+Collect all 116 coins at the Cliff of Wrath.
+
+#23 Biggest cash prize -- 20 Points
+Collect all 255 coins in the Molten Treasure Chest.
+
+#24 Unbelievable task -- 20 Points
+Collect all 148 coins in the Luminium-Sphere.
+
+#25 Deadly coins -- 20 Points
+Collect all 141 coins in the Ombru-Sphere.
+
+#26 Percet Score -- 30 Points
+Get every coin maxima in every level.
+
+-> 250 Points
+
+------------
+
+Level-specific tasks:
+
+#27 Without help -- 5 points
+Get star 2,3,4 or 5 in the Dice-Fortress without using the purple switch.
+
+#28 Flying Champ -- 5 Points
+Open the box of star 6 in the Dice-Fortress while flying.
+
+#29 True Master of Jumping -- 15 Points
+Get on the top oof the black wall next to the third star of the Skyward Slopes.
+
+#30 Command Disregard -- 10 Points
+Reach star 5 in the Azure-Abyss without using the metalcap.
+
+#31 Flower picker -- 10 Points
+Reach and defeat the Piranha plants in System of a Town without diving through the
+sewer system.
+
+#32 Ouch! -- 5 Points
+Reach the secret treasure room in the Haunted Factory without using the shell.
+
+#33 Ouch!, the second time -- 5 Points
+Reach the 3rd star of the Stalagmite-Cave without using walljumps anywhere in the level.
+
+#34 Ouch!, the third time -- 5 points
+Get crushed by a thwomp in the Stalagmite-Cave.
+
+#35 Headaches -- 10 Points
+Groundpound ontop of King Whomp when he is standing.
+
+#36 Get a life (or two) -- 5 points
+Collect both extra lives in the Overheating Oasis in one go.
+
+#37 Windless -- 10 Points
+Get on top of the windmill's wheel in the Flowery Gardens.
+
+#38 Fast and furios -- 5 Points
+Win against Koopa in less than 10 seconds.
+
+#39 Mafia -- 5 Points
+Kick all Bullies at the Sunny Beach into the water.
+
+#40 Innovation -- 10 Points
+Defeat King Boo by using longjumps (yes, that actually works).
+
+#41 Risk Taker -- 5 Points
+Jump from King Boo's platform to the pillar of star 3.
+
+#42 Mountain climber -- 10 Points
+Get on top of the 4 mountain peaks in the Molten Treasure Chest without using the cannon.
+
+#43 Waste Disposal -- 15 Points
+Destroy all 5 empty !-Boxes in the Luminium-Sphere in one go.
+
+#44 Trimmed -- 5 Points
+Collect the red coins in the Ombru-Sphere without using the wingcap.
+
+#45 Boxpile madness -- 20 Points
+Destroy all 8 empty !-Boxes in the Ombru-Sphere in one go.
+
+#46 Animal cruelty -- 0 Points
+Place the rabbit inside the river.
+
+#47 Cheater! -- 0 Points
+Read the unreachable sign.
+
+#48 Who put that there? -- 10 Points
+Collect all 4 extra lives at the third part of the overworld which float directly over
+the lava in one go.
+
+#49 Get a life again -- 5 Points
+Reach the extra live in the green switch palace.
+
+#50 Flying expert -- 5 Points
+Collect the red coins of the red switch palace and use the cannon only once.
+
+#51 Enemy abuse -- 5 Points
+Get to the star behind the narrow path in the blue switch palace by jumping onto the Fly Guy.
+
+#52 Sliding Champion -- 15 Points
+Reach the end of the Frozen Slide without pressing the A-Button and collect all 4
+red coins that are on the track.
+
+#53 Champion's Challenging Challenge -- 15 Points
+Reach the star of the Champion's Challenge without using longjumps.
+
+#54 Climbin ape -- 10 Points
+Get on top of the big building in Bowser's Badlands Battlefield without using the cannon.
+
+#55 Suicide Kill -- 5 Points
+Pick up the Chuckya at Bowser's Aquatic Castle and swim with it into an underwater twister.
+
+#56 Fungus Maximus -- 20 Points
+Collect all 10 extra lives in Bowser's Crystal Palace.
+
+-> 250 Points
+
+---------
+
+700 possible Points.

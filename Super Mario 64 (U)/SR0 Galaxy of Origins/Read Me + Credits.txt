@@ -1,0 +1,71 @@
+Star Revenge 0 - Galaxy of Origins v1.0.4
+
+SM64 Hack by BroDute
+
+Original Game by Nintendo
+
+This is a medium difficulty hack with 122 stars. There are 15 main courses and they all have 8 stars. Once you get the 2 intro stars you are free to choose any level to play in any order. The final can be unlocked by collecting 50 stars.
+
+This hack has nothing to do with SR0.5, it has its own original levels and isn't based off any of my other hacks.
+
+If you are interested in what order to play the many Star Revenges, then follow this order as recommended (this is lore-wise, not necessarily in order of difficulty):
+
+SR0 GoO -> SR1.5 STRedone 2.X -> SR2 To the Moon -> (SR2.5 RoD ->) SR3.5 VoCD -> (SR3.9 DBB ->) SR4.5 TKTR -> SR6.25 LADX -> SR6.5 WotDF -> SR6.9 LliT -> SR5 NBR -> SR7 PoT -> SR7.5 KR -> SR8 SoH -> SR5.5 DM
+[the missing numbers can be ignored, because those hacks got remade or are just not worth it to play in general]
+
+More Credits:
+
+Beta Testing: LinCrash, Mushie64, sm64pie, RetroNika
+
+Coding:
+MOP Objects by Kaze
+Cap Timer by ToasterKetchup
+Rest of ASM related things by Aglab2
+
+Levels: BroDute
+
+Textures: SMW Central, BroDute
+
+Text correction: Mushie64
+
+Music:
+
+Music ports by RetroNika:
+Starting Area:		Cruisn U.S.A - Bluegrass Boogie
+Sky: 			SMB3 - Athletic
+Boss: 			Cadence of Hyrule - Gleeockenspiel
+Overworld: 		Cruisn U.S.A - Prepare for the race
+Course 1 Underground: 	Mario Party - The Room Underground
+Course 2: 		Pokemon White - White Forest
+Course 2 2nd Areas:	Super Mario Maker 2 - SMB1 Forest
+Course 3:		Outrun - Passing Breeze
+Course 4:		Ape Escape 3 - Western Village
+Course 4 Cave:		Donkey Kong Country - Cave Dweller
+Course 4 Dam:		Super Paper Mario - Tile Pool
+Course 6:		Duck Maze - Game Theme
+Course 6 Sky:		SMB3 - Athletic
+Course 7:		Barbie - Snobow
+Course 7 Puzzle:		Sonic 06 - White Acropolis
+Course 8:		Terranigma - Underworld
+Course 8 Volcano:	Super Metroid - Brinstar Overgrown
+Course 9: 		Cruisn U.S.A - Deadwood Ride
+Course 10:		Buster Busts Loose - Busters Sky Jinks
+Course 11:		Sonic 2 - Oil Ocean
+Course 15:		Crash: Mind Over Mutant - Darkness Imminent
+Final Level:		Paper Mario - Siege on Bowsers Castle
+Quiz:			Freddy Fazbear's Pizzeria Simulator - Smashing Windshields
+Title Screen:		Super Mario Galaxy 2 - World 3 map
+Star Get:		Cave Story - Item Get
+
+Music ports by sm64pie:
+Course 1: 		Gran Turismo 2 - East City
+Course 10 2nd Area:	Sonic Mania - Press Garden Act 2
+Course 12:		Mario Kart Double Dash - Dry Dry Desert
+Course 13: 		Touhou 17 - Beast Metropolis
+Course 14: 		Touhou 17 - Electric Heritage
+
+Others:
+Wing Cap/Shell:		Bomberman Hero - Redial by EDark
+Metal Cap:		Castlevania HoD - Vampire Killer by Mosky2000
+Vanish Cap:		HOME - Resonance by EDark
+Course 5:		Castlevania CotM - Clockwork by Mosky2000
