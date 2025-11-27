@@ -1,0 +1,5 @@
+You can use the Giants mask after entering Majora's Lair, if this happens
+then you should use the L&R cheat to reload (104-B).
+
+The debug/map select cheats also don't work for some reason, so don't use
+them!
