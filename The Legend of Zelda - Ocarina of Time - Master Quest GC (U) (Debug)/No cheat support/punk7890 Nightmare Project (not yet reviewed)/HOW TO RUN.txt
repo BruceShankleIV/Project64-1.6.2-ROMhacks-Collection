@@ -1,0 +1,7 @@
+1. Open ppf-o-matic3.exe
+2. Choose ISO File (your Debug ROM) ((make sure you choose all files)
+3. Choose PPF patch
+4. Hit apply.
+
+If your ROM failes to load, please refer to these settings:
+http://i240.photobucket.com/albums/ff97/punk-7890/Settings2.jpg
