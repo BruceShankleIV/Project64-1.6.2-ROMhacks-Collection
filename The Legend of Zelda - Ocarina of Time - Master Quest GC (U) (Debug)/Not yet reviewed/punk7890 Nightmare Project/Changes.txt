@@ -1,0 +1,47 @@
+3.1
+-Added water texture to Lake Hylia
+-Added Textures to Lon Lon Ranch
+-Fixed heart piece expolit
+-Added textures to almost all Child maps
+3.2
+-Added enemys to Jabu Jabu (still not done)
+-Added Snow in Title Screen
+3.3
+-Fixed key door issue in Dodongo's Cavern when you open one the other will be a normal door.
+-Completed Jabu Jabu
+3.4
+-Completed Hyrule Field 2
+-Added some more text edits
+-Added new animations
+3.5
+-More text edits
+-Story overview done
+3.6
+-Added new animation
+-Added new Navi Colors
+-Added Sword Swipe Colors
+-Added enemy heath and damage effects
+3.7
+-Fixed freeze issuse after you collect the Zora Stone
+-New textures in Bottom of the Well
+3.8
+-Added some adult maps
+3.9 (non textures) Install a texture patch first if you want textures
+-Added some Adult maps
+-Added Forest Temple and Fire Temple (adult Link only) ((needs testing))
+-Fixed issue in a Grotto where the treasure chest was to high
+-Fixed an issue in Dodongo's Cavern
+4.0
+-redone lots of textures
+-fixed error in Lake Hylia as a child where over by the warp pad the skybox messes up
+-fixed error in Fire Temple where a door would never open
+-fixed Fire Temple boss room crash
+-fixed Guay freeze issue after you stun them
+-added map effects (ambient light, fog etc.)
+-improved child areas
+-lots of actors redone (movement, etc)
+e
+-Fixed error on the gates in Hyrule Field that they'd all open once collected the Rupees
+
+-- Water, Forest, Fire, Shadow temples need testing.
+-- Fixed Freeze issue in Bottom of the Well when you pause
