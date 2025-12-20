@@ -1,0 +1,92 @@
+File Name: Bruce IV
+
+
+ITEMS NOT RANDOMIZED IN THIS RANDOMIZER:
+Boss Remains
+Songs
+Heart Pieces/Containers
+Dungeon Items (Keys/Map/Compass)
+Stray Fairies
+Rupees
+Tingle Maps
+Mirror Shield
+Ocarina of Time
+Lens of Truth
+Koume Red Potion Bottle
+Milk Not From Gorman Track or Romani
+20 Bomb Bag, Bombs, and Bombchu
+Notes: 3 Transformation masks randomized within themselves, bottled items randomized within themselves.
+Other Notes: Sometimes an item not on this list won't get randomized, this is purely coincidental.
+Randomization: This randomizer uses your file name as the seed, so if you use a different file name
+then you will get different item shuffles with each one. If you want to use someone else's shuffles
+then you just need to use the name they used.
+
+ITEMS YOU START WITH IN THIS RANDOMIZER:
+Ocarina of Time
+Song of Time
+Song of Healing
+One of the three transformation masks, just talk to the salesman after the first cutscene!
+250 max capacity wallet, upgradable to 500 and then 999
+Hero's Shield and Kokiri Sword
+
+NOTABLE RANDOMIZATIONS:
+Deku Mask->Goron Mask
+Goron Mask->Deku Mask
+Zora Mask->Unrandomized
+Kamaro's Mask->Deku Stick
+Hero's Shield->40 Bomb Bag
+Kafei's Mask->Fire Arrow
+Bremen's Mask->Hookshot
+Bomber's Password=23145 (easy to remember, 23 is number 1)
+Bomber's Notebook->express mail to Mama
+Postman's Hat->Giant's Mask
+Stone Mask->Ice Arrows
+Pictograph Box->Stone Mask
+Quiver Upgrade 1->Powder Keg
+Quiver Upgrade 2->Gilded Sword
+Adult's Wallet->Razor Sword (DON'T GET ADULT'S WALLET AFTER QUIVER UPGRADE 2)
+Mask of Truth->Fierce Deity's Mask
+Land Title Deed->40 Quiver
+Ice Arrow->Light Arrow
+Great Fairy's Mask->Room Key
+Fire Arrows->Great Fairy's Mask
+Razor Sword->Great Fairy's Sword
+Great Fairy's Sword->Bunny Hood (lose the great fairy sword to takuri, buy it back at the curiosity shop to get bunny hood, great fairy sword will be restored on next cycle)
+Moon's Tear->Blast Mask
+Hookshot->Circus Leader's Mask
+Captain's Hat->999 Wallet
+Room Key->Kafei's Mask
+Letter to Kafei->50 Quiver
+Circus Leader's Mask->30 Quiver
+Swamp Title Deed->Kokiri Sword (if you get razor sword from wallet upgrade, let takurri steal razor sword so you can buy great fairy's sword back, then let takkuri steal great fairy's sword so you can buy bunny hood back, you can trade land title deed (comes from deku nut) for kokiri sword so you can activate swamp owl statue without needing to use fd mask)
+Big Bomb Bag->Moon's Tear
+Deku Nut->Land Title Deed
+Kokiri Sword->Swamp Title Deed
+Powder Keg->Mountain Title Deed (NEEDED TO OBTAIN SEA HORSE)
+Ocean Title Deed->Mask of Scents (NEEDED TO OBTAIN SEA HORSE)
+Mountain Title Deed->Captain's Hat (if you want to see keeta easter egg)
+10 Deku Nuts->Unrandomized
+Don Gero's Mask->Romani's Mask
+
+Bottle Items:
+Bugs->Deku Princess
+Fish->Gold Dust
+Gold Dust->Fish
+Big Poe->Green Potion
+Milk->Blue Potion
+Green Potion->Chateau Romani Bottle (does nothing if you have 6 bottles)
+Poe->Unrandomized
+Deku Princess->Fairy
+Fairy->Bugs <- NEEDED TO COMPLETE SWAMP SPIDER HOUSE FOR FD MASK
+Magic Mushroom->Sea Horse <- NEEDED TO COLLECT ZORA'S EGG WITHOUT GLITCHES OR A GUIDE
+Sea Horse->Spring Water <- Could be useful to flip stone tower if using glitches
+Red Potion->Big Poe
+Romani Milk Bottle->Blue Potion
+Madame Aroma Chateau Romani Bottle->Red Potion
+Spring Water->Milk
+Hot Spring Water->Magic Mushroom
+Blue Potion->Hot Spring Water (cools instantly) <- Could be useful to flip stone tower if using glitches
+Big Poe->Green Potion
+Talon Milk & Chateau Romani->Unrandomized
+Cow Milk->Unrandomized
+Gorman Brother Milk->Blue Potion
