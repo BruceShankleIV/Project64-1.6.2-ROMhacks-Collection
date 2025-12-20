@@ -42,9 +42,9 @@ Bomber's Notebook->express mail to Mama
 Postman's Hat->Giant's Mask
 Stone Mask->Ice Arrows
 Pictograph Box->Stone Mask
-Quiver Upgrade 1->Powder Keg
-Quiver Upgrade 2->Gilded Sword
-Adult's Wallet->Razor Sword (DON'T GET ADULT'S WALLET AFTER QUIVER UPGRADE 2)
+Clock Town Shooting Gallery->Powder Keg
+Swamp Shooting Gallery->Gilded Sword
+200 Rupees or more deposited->Razor Sword (DON'T GET THIS AFTER SWAMP SHOOTING GALLERY)
 Mask of Truth->Fierce Deity's Mask
 Land Title Deed->40 Quiver
 Ice Arrow->Light Arrow
