@@ -3,3 +3,5 @@ then you should use the L&R cheat to reload (104-B).
 
 The debug/map select cheats also don't work for some reason, so don't use
 them!
+
+The game crashes when loading an area sometimes, I'm not sure why.

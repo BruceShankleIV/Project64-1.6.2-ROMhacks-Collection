@@ -1,0 +1,272 @@
+File Name: Bruce S.
+Bomber's Code: 15342
+
+Light Arrow->Circus Leader's Mask
+Fierce Deity's Mask->Mountain Title Deed
+Ocean Title Deed->500 Wallet
+Giant's Mask->Mask of Truth
+Romani's Mask->40 Bomb Bag
+Deku Mask->Goron Mask
+Goron Mask->Zora Mask
+Zora Mask->Deku Mask
+Room Key->Moon's Tear
+Kafei's Mask->Room Key
+Land Title Deed->Giant Wallet 999
+Banker Wallet->Mask of Scents
+Hero's Shield->Swamp Title Deed
+Bremen's Mask->Unrandomized
+Bomber's Notebook->Kokiri Sword
+Blast Mask->Hero's Bow
+Powder Keg->Garo's Mask
+30 Bomb Bag from Bomb or Curiosity Shop->Gibdo's Mask
+Kamaro's Mask->Blast Mask
+Don Gero's Mask->Special Delivery to Mama
+10 Deku Nuts->Ocean Title Deed
+Mountain Title Deed->Magic Beans
+Scrub Bomb Bag->Captain's Hat
+Great Fairy's Mask->Keaton's Mask
+Postman's Hat->Couple's Mask
+All-Night Mask->Romani's Mask
+Kokiri Sword->Letter to Kafei
+1 Deku Nut->Don Gero's Mask
+Deku Stick->Great Fairy's Mask
+Magic Beans->Postman's Hat
+Pictograph Box->Deku Stick
+Mask of Truth->10 Deku Nuts
+Oceanside Spider House->Giant's Mask
+Stone Mask->Pictograph Box
+Captain's Hat->50 Quiver
+Clock Town Shooting Gallery->Bunny Hood
+Swamp Shooting Gallery->All-Night Mask
+Bunny Hood->Hero's Shield
+Garo's Mask->Deku Nut
+Hero's Bow->Fire Arrow
+Fire Arrow->Stone Mask
+Ice Arrow->Kamaro's Mask
+Gibdo's Mask->30 Bomb Bag
+Pendant of Memories->Powder Keg
+Special Delivery to Mama->Great Fairy's Sword
+Great Fairy's Sword->Gilded Sword
+Gilded Sword->Fierce Deity's Mask
+Circus Leader's Mask->Light Arrow
+Mask of Scents->Land Title Deed
+Swamp Title Deed->Razor Sword
+Letter to Kafei->Bomber's Notebook
+Hookshot->Unrandomized
+Keaton's Mask->Kafei's Mask
+Razor Sword->Pendant of Memories
+Couple's Mask->40 Quiver
+Moon's Tear->Ice Arrow
+
+Bottle Randomizations:
+Fish->Hot Spring Water
+Bugs->Unrandomized (useful if using glitches to bottle dupe over items)
+Fairy->Blue Potion
+Green Potion->Spring Water
+Red Potion->Fish (catching fish randomizes to HSW, get red potion to store HSW!)
+Hot Spring Water->Green Potion
+Madame Aroma Chateau Romani Bottle->Milk Bottle
+Blue Potion->Gold Dust
+Gorman/Romani Milk->Chateau Romani
+Gold Dust->Magic Mushroom
+Big Poe->Deku Princess
+Deku Princess->Red Potion
+Sea Horse->Unrandomized
+Magic Mushroom->Big Poe
+
+Concept Glitchless Route (2 cycles, 2 dungeons each. 1st cycle final night section is hardest to fit,
+there may not be enough time in the night to beat two dungeons and prepare for the next two):
+
+1st cycle:
+clock town owl
+
+kill takurri for 200 rupees
+
+drown in nearby water
+
+buy garo's mask from shop goron
+
+buy bomb bag
+
+interact with great bay fence to activate bean plant at observatory
+
+great bay owl
+
+deku mask from zora mask
+
+talk to grandma to pass 2 hours x3
+
+moon's tear from room key, leave inn
+
+sodt x1
+
+stray fairy
+
+room key from kafei's mask
+
+silver rupee chest in ect
+
+999 wallet from land title deed
+
+magic
+
+15342 bomber password
+
+silver rupee in the sewers
+
+ice arrow from moon's tear
+
+use bean plant to exit instead of taking more damage from goron jump
+
+red rupees from tree guy
+
+silver rupee from knife room
+
+hero's bow from blast mask
+
+deposit rupees (around 350~)
+
+milk road owl
+
+lose sword to takurri
+
+sct, wct
+
+withdraw 50 rupees at bank
+
+buy letter from sword
+
+deposit letter
+
+sodt x2
+
+speak to kafei, leave hideout
+
+inverted song of time, sodt x2
+
+kafei's mask + gfs from hideout
+
+kill takuri with gfs
+
+milk road owl
+
+kill takuri with gfs again
+
+swamp owl
+
+shoot big octo, roll through poison
+
+turn deku, skip bean with backflip onto 2nd door frame in left side
+
+sonata of awakening
+
+song of soaring
+
+raise woodfall temple
+
+activate woodfall owl
+
+soar to clock town
+
+deposit rupees (around 400~)
+
+soar to milk road owl
+
+lose gfs to takurri
+
+soar to clock town
+
+silver rupee from anju's room
+
+buy gilded sword from gfs
+
+soar to milk road owl
+
+lose gilded sword to takurri
+
+soar to swamp, get red potion bottle
+
+soar to clock town
+
+withdraw all rupees
+
+buy romani's mask from night mask (costs 500 rupees)
+
+buy fd mask from gilded sword (costs 50 rupees)
+
+mountain village owl with fd mask
+
+speak to crying goron
+
+captain's hat from business scrub (costs 200 rupees)
+
+lens of truth
+
+soar to mountain village owl
+
+zora mask from goron mask
+
+soar to great bay owl
+
+hookshot from hookshot + 1 zora egg
+
+defeat woodfall temple (fire arrow from hero's bow)
+
+red potion from deku princess
+
+soar to mountain village
+
+lullaby intro
+
+full lullaby
+
+deliver sirloin
+
+mama letter from don gero's mask
+
+defeat snowhead temple (stone mask from fire arrow)
+
+soar to clock town
+
+milk bottle from madame aroma chateau romani bottle
+
+pictograph box from stone mask
+
+bottle #3 from dampe's grave
+
+ikana owl
+
+soar to great bay
+
+pirate picture + pirate fortress eggs
+
+sea horse from sea horse
+
+pinnacle rock zora eggs
+
+new wave bossa nova, song of time
+
+
+2nd cycle:
+
+sodt x1
+
+soar to great bay
+
+play new wave bossa nova to turtle, inverted song of time
+
+complete great bay temple (skip ice arrow chest)
+
+soar to clock town
+
+light arrow from circus leader's mask
+
+soar to ikana canyon, enter ancient castle of ikana
+
+sodt x4, learn elegy of emptiness
+
+complete stone tower temple (skip light arrow and giant's mask chests)
+
+uninvert song of time if it's not after or close to midnight yet
+
+beat the game
