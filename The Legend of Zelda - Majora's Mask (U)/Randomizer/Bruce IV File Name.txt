@@ -1,38 +1,8 @@
-File Name: Bruce IV
+Bruce IV
 NOTE: THIS IS CASE SENSITIVE! BruceIV file name REQUIRES CHEATING OR GLITCHING
-TO BEAT UNLIKE "Bruce IV" due to BruceIV randomizing Fierce Deity's Mask to Garo's Mask,
-and garo's mask is needed to access ikana canyon, which is needed to beat the game.
+Bomber's Code: 23145
 
-ITEMS NOT RANDOMIZED IN THIS RANDOMIZER:
-Boss Remains
-Songs
-Heart Pieces/Containers
-Dungeon Items (Keys/Map/Compass)
-Stray Fairies
-Rupees
-Tingle Maps
-Mirror Shield
-Ocarina of Time
-Lens of Truth
-Empty Bottle
-Koume Red Potion Bottle
-Milk Not From Gorman Track or Romani
-20 Bomb Bag, Bombs, and Bombchu
-Notes: 3 Transformation masks randomized within themselves, bottled items randomized within themselves.
-Other Notes: Sometimes an item not on this list won't get randomized, this is purely coincidental.
-Randomization: This randomizer uses your file name as the seed, so if you use a different file name
-then you will get different item shuffles with each one. If you want to use someone else's shuffles
-then you just need to use the name they used.
-
-ITEMS YOU START WITH IN THIS RANDOMIZER:
-Ocarina of Time
-Song of Time
-Song of Healing
-One of the three transformation masks, just talk to the salesman after the first cutscene!
-250 max capacity wallet, upgradable to 500 and then 999
-Hero's Shield and Kokiri Sword
-
-NOTABLE RANDOMIZATIONS:
+Incomplete List of Randomizations:
 Deku Mask->Goron Mask
 Goron Mask->Deku Mask
 Zora Mask->Unrandomized
@@ -40,7 +10,6 @@ Kamaro's Mask->Deku Stick
 Hero's Shield->40 Bomb Bag
 Kafei's Mask->Fire Arrow
 Bremen's Mask->Hookshot
-Bomber's Password=23145 (easy to remember, 23 is number 1)
 Bomber's Notebook->express mail to Mama
 Postman's Hat->Giant's Mask
 Stone Mask->Ice Arrows
@@ -71,7 +40,7 @@ Mountain Title Deed->Captain's Hat (if you want to see keeta easter egg)
 10 Deku Nuts->Unrandomized
 Don Gero's Mask->Romani's Mask
 
-Bottle Items:
+Bottle Randomizations:
 Bugs->Deku Princess
 Fish->Gold Dust
 Gold Dust->Fish
@@ -84,7 +53,7 @@ Fairy->Bugs <- NEEDED TO COMPLETE SWAMP SPIDER HOUSE FOR FD MASK
 Magic Mushroom->Sea Horse <- NEEDED TO COLLECT ZORA'S EGG WITHOUT GLITCHES OR A GUIDE
 Sea Horse->Spring Water <- Could be useful to flip stone tower if using glitches
 Red Potion->Big Poe
-Romani Milk Bottle->Blue Potion
+Romani or Gorman Milk->Blue Potion
 Madame Aroma Chateau Romani Bottle->Red Potion
 Spring Water->Milk
 Hot Spring Water->Magic Mushroom

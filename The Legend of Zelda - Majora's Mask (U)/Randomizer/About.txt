@@ -1,0 +1,29 @@
+ITEMS NOT RANDOMIZED IN THIS RANDOMIZER:
+Boss Remains
+Songs
+Heart Pieces/Containers
+Dungeon Items (Keys/Map/Compass)
+Stray Fairies
+Rupees
+Tingle Maps
+Mirror Shield
+Ocarina of Time
+Lens of Truth
+Empty Bottle
+Koume Red Potion Bottle
+Milk Not From Gorman Track or Romani
+Poe (big poe is still randomized)
+20 Bomb Bag, Bombs, and Bombchu
+Notes: 3 Transformation masks randomized within themselves, bottled items randomized within themselves.
+Other Notes: Sometimes an item not on this list won't get randomized, this is purely coincidental.
+Randomization: This randomizer uses your file name as the seed, so if you use a different file name
+then you will get different item shuffles with each one. If you want to use someone else's shuffles
+then you just need to use the file name they used.
+
+ITEMS YOU START WITH IN THIS RANDOMIZER:
+Ocarina of Time
+Song of Time
+Song of Healing
+One of the three transformation masks, just talk to the salesman after the first cutscene!
+250 max capacity wallet, can be interchanged for 500 giant's wallet or 999 giant wallet
+Hero's Shield and Kokiri Sword
