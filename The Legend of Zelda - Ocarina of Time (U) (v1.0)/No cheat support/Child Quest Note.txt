@@ -1,0 +1,2 @@
+Emu cheat support could be added for Child Quest, but this game seems to already have cheats supported
+in the options menu, hence it would be redundant.
