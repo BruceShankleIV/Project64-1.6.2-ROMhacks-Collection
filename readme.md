@@ -1,3 +1,3 @@
-This is a WIP Collection of ROMhacks for use with my Project64 1.6.2, a WIP Project64 1.6 build focused on ROMhack support, bug fixes, more game compatibility, and overall better user experience.
+This is a Collection of ROMhacks exclusively for use with my Project64 1.6.2, a Project64 1.6.1 update.
 
-Where to get Project64 1.6.2? Get it [here](https://github.com/BruceShankleIV/Project64-1.6.2/releases), all ROMhacks found here are to eventually be supported in the latest release.
+Get Project64 1.6.2 [here](https://github.com/BruceShankleIV/Project64-1.6.2/releases), all ROMhacks found here are supported in version 26.
