@@ -1,0 +1,48 @@
+Star Revenge 3.5 v1.3
+	Vacation of Cursed Dreams
+
+This Super Mario 64 Hack is a remake/expansion of Star Revenge 3: Mario on An Saoire.
+This hack merely uses the same story and level themes as SR3. Levels, Music, Course 9 - 15 and more are
+all new stuff added with this remake.
+The hack itself has 132 stars. It starts off easy, but if you go for 100% there will be hard stuff
+along the way in the later courses. Any% for this is 50 stars.
+A main thing for this hack is, that the new courses 9 to 15 are all 2.5D courses. This is to fully
+realize the original idea of SR3 being based off M&L Dream Team.
+All stars are hinted at in the game, so read some of the text boxes and don't complain you
+can't find stuff... even tho this isn't as cryptic and full of secrets as SR2: To The Moon was.
+
+SM64 Rom Hack
+	by BroDute
+
+Original game
+	by Nintendo
+
+Levels
+	by BroDute
+
+Custom Music
+	check the other txt file
+
+Music Volume Mastering
+	by Mosky2000
+
+Textures
+	by SMW Central and BroDute
+
+HUD Graphics and Fonts
+	by BroDute
+
+Text Correction
+	by Mushie64
+
+Beat Blocks + Cap Switch related stuff
+	by Scuttlebug_raiser
+
+Pole fix
+	by Frameperfection
+
+ALL the other ASM stuff
+	by Aglab2
+
+Beta Testing
+	by Aglab2, MarioCrash64/LinCrash, Mushie64, Mosky2000

@@ -1,0 +1,167 @@
+Changes of v1.3.2:
+---------------
+General:
+- Some f3dfix stuff
+- Using Exit Course in the following levels will now bring you
+to the previous level instead of to the ship (code by Aglab2):
+Course 9 - 15, Import Harbor, Spawning Grounds, P. Volcano and Waterlit Cavern
+
+Course 1:
+- Fixed the fog color
+
+
+Changes of v1.3.1:
+---------------
+
+General:
+- Reduced the walljump angle to around 50°
+
+Waterlit Cavern:
+- Added 2 blocks around the Nightmare Void cage
+
+Changes of v1.3:
+---------------
+
+General:
+- Added a cap timer
+- The camera zooms more when changing the angle (2D Cam)
+- The position of the race timer has been adjusted
+- Cap music doesn't refresh on regrab of a cap unless it's running out
+- Textboxes won't spawn anymore for 1, 3, 8 etc. grabbed stars
+- Fall damage has been removed
+- Walljumps at an angle of 75° are now possible
+- Climbable Slopes have been fixed
+- Star Display added to the overworld
+
+Increased the duration of the caps:
+WC: 16 -> 20
+VC: 13 -> 17
+MC: 22 -> 25
+
+Course 1 - 3:
+- Increased the amount of stars needed to unlock the dream gates (30->40)
+
+Course 3:
+- The star under the flowers now peaks out a bit
+
+Course 4:
+- Changed the lava section in the maze
+
+Course 6:
+- The sewer star is now over the warp to prevent the camera from breaking
+
+Course 9:
+- Adjusted the path Koopa the Quick takes
+
+Course 11:
+- Added warps that connect the bottom with the top of the level (Area 1)
+
+Course 12:
+- Removed the star doors
+- Added a sign like course 13 has
+- Added a VC wall to star 3's section
+
+Course 14:
+- Added extra ground in many locations
+- Removed a cannon at the end of star 1's path
+- Changed the area around the vanish cap on the boss path
+- Removed the 1st cannon after the vanish cap wall on the boss path
+- Made a platform longer on the Beat Block path towards the end
+- Added a lava texture into the burning burners to make it easier to see which are burning when looking down from above
+
+Course 15:
+- Removed a Chuckya in the red area
+- Added a breakable box under one of the coins with a secret
+
+P. Volcano:
+- Removed the fire spewers
+
+
+Changes of v1.2a:
+---------------
+- Fixed an issue causing the 5th secret along with the indicating coins not not appear and it's area to be surrounded by an invisible wall
+
+
+Changes of v1.2:
+---------------
+Course 1:
+- Added hint signs
+
+Course 8:
+- Disabled hardcoded cam settings
+
+Course 9:
+- Added barriers to the main area (star 1 to 5) to keep enemies and coins close to the player's z axis (this is not the case around the Koopa's path)
+- Changed the position of a beat block upwards in the star 6 area
+
+Course 10:
+- Added barriers to the main area (star 1 to 4) to keep enemies and coins close to the player's z axis
+
+Course 11:
+- Added barriers to the main area (star 1 to 4) to keep enemies and coins close to the player's z axis
+
+Course 12:
+- Added barriers to the main area (star 1 to 4) to keep enemies and coins close to the player's z axis
+
+Course 13:
+- Added barriers to the main area (star 1 to 4) to keep enemies and coins close to the player's z axis
+- Added a hint sign to the boss section (star 5)
+
+Course 14:
+- Added barriers to the main areas (star 1 to 4) to keep enemies and coins close to the player's z axis
+
+Course 15:
+- Added barriers to the all areas to keep enemies and coins close to the player's z axis
+- fixed a celling that was missing collision
+- lowered invisible cellings at the top of the level
+
+
+Changes of v1.1:
+---------------
+General:
+- Changed the indicators for the entrances to Courses with Cap Switches in from the Box to a Switch to remove confusion.
+
+Overworld:
+- Added more indicators to doors. This is in related to the Vanish Cap and the 2 Keys
+
+Course 4:
+- Added a "+" to the sign about Course 12/Vanish Cap sign
+- Made the vines a bit smaller that are covering the secret path to Course 12/Vanish Cap
+
+Course 5:
+- Added a "+" to the sign about Course 13/Key 1 sign
+
+Course 8:
+- Added a hint sign related to the Gate Switch
+
+Course 9:
+- Removed the sign explaining star 6, replaced it with a big hint sign
+
+Course 12:
+- Added signs related to the location of the Vanish Cap switch and the 35 star doors in order to remove the thought of potentially needing 35 stars for the switch, which are NOT required
+- Changed the bob-ombs text for the same reason as well
+
+Course 13:
+- Removed the sign explaining the 2D Levels, replaced it with a big hint sign
+
+Course 14:
+- Changed the random breakable box into a "1-up" mushroom (Blame quad for never wanting to save changes)
+
+Course 15:
+- Added another sign with an arrow to the box star in the red section
+
+Poisoned Volcano:
+- Added pink arrows to indicate the way to the Vanish Cap box
+
+Dorcha Wiggler Fight:
+- Forced D. Wiggler to stay more in the range of the player's Z plane to remove unnecessary waiting times for Wiggler to get into range of the player when the first hit isn't delivered yet
+
+Slide:
+- Added a sign hinting at different entrances
+
+
+Changes of v1.0a and b:
+--------------------
+- Fixed the swapped star names of star 5 and 6 in course 5
+- Added the missing -WC- to Course 3 and Course 4's wing cap star
+- Gave the vanilla named star in course 10 a proper name
